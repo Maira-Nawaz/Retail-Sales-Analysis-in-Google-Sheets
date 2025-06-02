@@ -5,9 +5,16 @@ This project is a **retail sales data analysis and visualization dashboard** cre
 
 The goal was to extract meaningful business insights from raw sales data using spreadsheet formulas and data manipulation — all without using any advanced BI tools.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Retail Sales Dashboard](Dashboard.png)
+
+
+## 🔗 View the Live Dashboard
+
+You can view the full dashboard directly in Google Sheets here:  
+[ Open Retail Sales Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/138k9B4oGFq48iAiFuU56XdKJNZUPGuCBtd1sFl-58Dw/edit?gid=473602714#gid=473602714)
+
 
 
 ##  Project Overview
