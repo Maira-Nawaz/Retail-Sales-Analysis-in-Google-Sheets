@@ -5,7 +5,10 @@ This project is a **retail sales data analysis and visualization dashboard** cre
 
 The goal was to extract meaningful business insights from raw sales data using spreadsheet formulas and data manipulation — all without using any advanced BI tools.
 
----
+## 📷 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+
 
 ##  Project Overview
 
@@ -13,13 +16,13 @@ The goal was to extract meaningful business insights from raw sales data using s
 * **Project Type**: Data Cleaning, Analysis, and Visualization
 * **Domain**: Retail / E-commerce
 
----
+
 
 ##  Objective
 
 The aim was to analyze sales data and create a dynamic, visual dashboard using only Google Sheets, focusing on key business questions and metrics such as customer behavior, product performance, and geographic insights.
 
----
+
 
 ##  Dataset Description
 
@@ -32,7 +35,7 @@ The dataset contained the following information:
 * City/State
 * Sales Channels
 
----
+
 
 ##  Data Preparation & Cleaning
 
@@ -43,7 +46,7 @@ To enable analysis, the following transformations were applied:
 * Removed unnecessary columns and ensured consistent formatting
 * Applied data validation for cleaner reporting
 
----
+
 
 ##  Business Questions Answered
 
@@ -60,7 +63,7 @@ Using formulas like `COUNT`, `COUNTIFS`, `SUMIFS`, and `UNIQUE`, I answered the 
 9. **Which city/state generated the most sales?**
 10. **Which city/state has the most customers?**
 
----
+
 
 ##  Dashboard Features
 
@@ -73,7 +76,7 @@ Using formulas like `COUNT`, `COUNTIFS`, `SUMIFS`, and `UNIQUE`, I answered the 
 * **Summary cards** showing total orders, total revenue, most active gender, and top-selling category
 * Built entirely with **native Google Sheets functions**
 
----
+
 
 ##  Skills Demonstrated
 
@@ -83,7 +86,7 @@ Using formulas like `COUNT`, `COUNTIFS`, `SUMIFS`, and `UNIQUE`, I answered the 
 * Business thinking and insight generation
 * Dashboard layout and design in spreadsheets
 
----
+
 
 ##  Acknowledgments
 
