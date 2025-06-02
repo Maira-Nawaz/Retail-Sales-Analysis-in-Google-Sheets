@@ -7,7 +7,7 @@ The goal was to extract meaningful business insights from raw sales data using s
 
 ## 📷 Dashboard Preview
 
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](Dashboard.png)
 
 
 ##  Project Overview
